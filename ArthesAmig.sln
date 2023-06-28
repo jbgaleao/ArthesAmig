@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArthesAmig.Web", "ArthesAmig.Web\ArthesAmig.Web.csproj", "{E14C1564-865C-417D-8999-29FC9CEFE80C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArthesAmig.Domain", "ArthesAmig.Domain\ArthesAmig.Domain.csproj", "{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E14C1564-865C-417D-8999-29FC9CEFE80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E14C1564-865C-417D-8999-29FC9CEFE80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E14C1564-865C-417D-8999-29FC9CEFE80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
