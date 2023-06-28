@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArthesAmig.Web", "ArthesAmi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArthesAmig.Domain", "ArthesAmig.Domain\ArthesAmig.Domain.csproj", "{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArthesAmig.Data", "ArthesAmig.Data\ArthesAmig.Data.csproj", "{65CCA96F-1F4F-4ACA-8238-65D6F9A5079A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BA0D9A4-C36C-4314-8D50-E413FF9B888D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CCA96F-1F4F-4ACA-8238-65D6F9A5079A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CCA96F-1F4F-4ACA-8238-65D6F9A5079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CCA96F-1F4F-4ACA-8238-65D6F9A5079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CCA96F-1F4F-4ACA-8238-65D6F9A5079A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
